@@ -13,6 +13,11 @@
      background-repeat: no-repeat;
  }
 
+ .text-padrao {
+  text-align: left;
+  font-size: 20px;
+}
+
  .chamada1 {
      text-align: left;
      font-size: 50px;
@@ -26,10 +31,31 @@
      font-family: 'Montserrat', sans-serif;
  }
 
- .text-padrao {
-     text-align: left;
-     font-size: 20px;
+ .chamada2-inter {
+   text-align: left;
+   font-size: 30px;
+   font-family: 'Montserrat', sans-serif;
  }
+
+.chamada2-sub {
+  text-align: left;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 0.7;
+}
+
+.session-title {
+  text-align: center;
+  font-size: 50px;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-icons {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
 
 nav ul a,
 nav .brand-logo {
